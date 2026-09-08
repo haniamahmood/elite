@@ -4,7 +4,7 @@ import random
 
 app = Flask(__name__)
 
-# 🌟 FUCKING PREMIUM DATA 🌟
+
 luxury_coffees = [
     {
         "id": 1, 
